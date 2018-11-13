@@ -1,0 +1,16 @@
+PODS:
+  - AZExpandable (0.0.1)
+
+DEPENDENCIES:
+  - AZExpandable
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AZExpandable
+
+SPEC CHECKSUMS:
+  AZExpandable: 886687b74466d164e08b6564f3b6e26fd2e1ab18
+
+PODFILE CHECKSUM: 1416380ee54648a653edca37d21015cca0e39201
+
+COCOAPODS: 1.5.3
